@@ -28,12 +28,13 @@
     </dependency>
   </dependencies>
 
-<distributionManagement>
-     <site>
+<repositories>
+   <repository>
 	   <id>npm-private></id>
        <url>http://35.239.78.254:8081/repository/npm-private/</url>
-     <site>
-</distributionManagement>
+   </repository>
+</repositories>
+
 <snapshotRepository>
       <nodejs-id>
       <maven-snapshots>
