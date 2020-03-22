@@ -3,14 +3,14 @@
 
 <proxies>
    <proxy>
-      <id>np,-proxy</id>
+      <id>npm-proxy</id>
       <active>true</active>
       <protocol>http</protocol>
-      <host>proxy.example.com</host>
+      <host>35.239.78.254</host>
       <port>8081</port>
       <username>admin</username>
       <password>admin123</password>
-      <nonProxyHosts>146.148.44.62</nonProxyHosts>
+      <nonProxyHosts></nonProxyHosts>
     </proxy>
 </proxies>
 

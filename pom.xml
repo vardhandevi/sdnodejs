@@ -28,6 +28,18 @@
     </dependency>
   </dependencies>
 
+<distributionManagement>
+     <site>
+	   <id>npm-private></id>i
+       <url>http://35.239.78.254:8081/repository/npm-private/</url>
+     <site>
+</distributionManagement>
+<snapshotRepository>
+      <nodejs-id>
+      <maven-snapshots>
+      <http://35.239.78.254:8081/repository/maven-snapshots/>
+</snapshotRepository>
+
   <build>
     <finalName>Nodejs_id</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
