@@ -30,7 +30,7 @@
 
 <distributionManagement>
      <site>
-	   <id>npm-private></id>i
+	   <id>npm-private></id>
        <url>http://35.239.78.254:8081/repository/npm-private/</url>
      <site>
 </distributionManagement>
